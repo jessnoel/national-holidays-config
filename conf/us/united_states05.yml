@@ -39,10 +39,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2011-11-25'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2011-12-26'
     names:
       en: Christmas Day
