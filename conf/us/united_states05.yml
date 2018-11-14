@@ -309,10 +309,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2017-11-24'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2017-12-25'
     names:
       en: Christmas Day
@@ -353,10 +349,6 @@ years:
     date: '2018-11-22'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2018-11-23'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2018-12-25'
     names:
@@ -399,10 +391,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2019-11-29'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2019-12-25'
     names:
       en: Christmas Day
@@ -443,10 +431,6 @@ years:
     date: '2020-11-26'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2020-11-27'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2020-12-25'
     names:
@@ -489,10 +473,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2021-11-26'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2021-12-25'
     names:
       en: Christmas Day
@@ -533,10 +513,6 @@ years:
     date: '2022-11-24'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2022-11-25'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2022-12-26'
     names:
@@ -579,10 +555,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2023-11-24'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2023-12-25'
     names:
       en: Christmas Day
@@ -623,10 +595,6 @@ years:
     date: '2024-11-28'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2024-11-29'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2024-12-25'
     names:
@@ -669,10 +637,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2025-11-28'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2025-12-25'
     names:
       en: Christmas Day
@@ -713,10 +677,6 @@ years:
     date: '2026-11-26'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2026-11-27'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2026-12-25'
     names:
@@ -759,10 +719,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2027-11-26'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2027-12-25'
     names:
       en: Christmas Day
@@ -803,10 +759,6 @@ years:
     date: '2028-11-23'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2028-11-24'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2028-12-25'
     names:
@@ -894,10 +846,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2030-11-29'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2030-12-25'
     names:
       en: Christmas Day
@@ -938,10 +886,6 @@ years:
     date: '2031-11-27'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2031-11-28'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2031-12-25'
     names:
@@ -984,10 +928,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2032-11-26'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2032-12-25'
     names:
       en: Christmas Day
@@ -1028,10 +968,6 @@ years:
     date: '2033-11-24'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2033-11-25'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2033-12-26'
     names:
@@ -1074,10 +1010,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2034-11-24'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2034-12-25'
     names:
       en: Christmas Day
@@ -1118,10 +1050,6 @@ years:
     date: '2035-11-22'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2035-11-23'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2035-12-25'
     names:
@@ -1209,10 +1137,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2037-11-27'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2037-12-25'
     names:
       en: Christmas Day
@@ -1253,10 +1177,6 @@ years:
     date: '2038-11-25'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2038-11-26'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2038-12-25'
     names:
@@ -1299,10 +1219,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2039-11-25'
-    names:
-      en: Day after Thanksgiving
-  - public_holiday: true
     date: '2039-12-26'
     names:
       en: Christmas Day
@@ -1343,10 +1259,6 @@ years:
     date: '2040-11-22'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2040-11-23'
-    names:
-      en: Day after Thanksgiving
   - public_holiday: true
     date: '2040-12-25'
     names:
