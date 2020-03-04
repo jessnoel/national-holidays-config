@@ -88,6 +88,10 @@ years:
     names:
       en: Maha Shivaratree
   - public_holiday: true
+    date: '2020-03-12'
+    names:
+      en: Independance and Republic Day
+  - public_holiday: true
     date: '2020-03-25'
     names:
       en: Ougadi
